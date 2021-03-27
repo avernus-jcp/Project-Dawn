@@ -1,0 +1,2 @@
+G:/Github/Avernus-Project-Dawn/dawn/mods/ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
