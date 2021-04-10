@@ -1,22 +1,3 @@
 {
-  "accounts" : {
-    "d4600afd0ca64d1d94ee9931c85a9509" : {
-      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMmYyYzkxMTc4YTE0ZjliYjk4ODA3MjJmZjViMGU4YyIsInlnZ3QiOiJmMjc0YTQzZGI3NWI0MTkzYWY0NGYzNmZmOGI0MjVkZSIsInNwciI6IjA2ZjQ3YzE1MzJmZTQ1NjFhY2U2YjY1OGUxNGQ1YWEwIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MTgyMDI2NTcsImlhdCI6MTYxODAyOTg1N30.GDD_zzGczJPMlahbq0wqmyU3Vhnd5kuRQ4zwtAkBcx0",
-      "eligibleForMigration" : false,
-      "hasMultipleProfiles" : false,
-      "legacy" : false,
-      "localId" : "d4600afd0ca64d1d94ee9931c85a9509",
-      "minecraftProfile" : {
-        "id" : "06f47c1532fe4561ace6b658e14d5aa0",
-        "name" : "Avernus_"
-      },
-      "persistent" : true,
-      "remoteId" : "12f2c91178a14f9bb9880722ff5b0e8c",
-      "type" : "Mojang",
-      "userProperites" : [],
-      "username" : "mrlegoman2011@gmail.com"
-    }
-  },
-  "activeAccountLocalId" : "d4600afd0ca64d1d94ee9931c85a9509",
-  "mojangClientToken" : "6a514b9532304bcd9c4ea5d16645915c"
+  "mojangClientToken" : "f8c72e525af44770b9524da18d003fd1"
 }
