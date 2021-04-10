@@ -1,0 +1,7 @@
+{
+  "data" : {
+    "UiEvents" : "{\"hasSeenDialog\":{\"LAUNCHER_RELEASENOTE_61rnrT5t7g0hS7YlV6O9CD\":true}}",
+    "UiSettings" : "{\"dungeonsDLCFilter\":{\"Owned\":true,\"Bundle\":true,\"DLC\":true},\"javaConfigurationFilter\":{\"release\":false,\"historical\":false,\"snapshot\":false,\"sortBy\":\"last-played\",\"modded\":true},\"lastVisitedGame\":\"java\",\"animate\":{\"transitions\":false,\"playButton\":false}}"
+  },
+  "formatVersion" : 1
+}
