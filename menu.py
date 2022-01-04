@@ -4,6 +4,7 @@ import sys
 import subprocess
 
 import platform
+import webbrowser
 
 from tkinter import *
 
@@ -24,6 +25,7 @@ window.options = Menu((window.navbar), tearoff=0)
 window.update = window.options.add_command(label='Check For Updates', command=( lambda : update.GitManager().Sync() ))
 
 window.navbar.add_cascade(label='Options', menu=(window.options))
+window.navbar.add_cascade(label='About',command=( lambda : webbrowser.open_new_tab("https://github.com/TheMerkyShadow/Project-Dawn/") ))
 
 window.config(menu=(window.navbar))
 window.mainloop()
